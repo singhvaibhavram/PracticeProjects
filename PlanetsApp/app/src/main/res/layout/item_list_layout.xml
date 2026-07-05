@@ -6,10 +6,11 @@
     android:layout_height="wrap_content">
 
     <ImageView
-        android:id="@+id/planet_list_image"
+        android:id="@+id/planet_image"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_margin="16dp"
+        android:scaleType="fitCenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -22,7 +23,7 @@
         android:layout_marginTop="16dp"
         android:text="Planet Name"
         android:textSize="28sp"
-        app:layout_constraintStart_toEndOf="@+id/planet_list_image"
+        app:layout_constraintStart_toEndOf="@+id/planet_image"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
