@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 "Earth",
                 "1 Moon",
                 R.drawable.earth,
-                "Earth is the third planet from the Sun and the only known world to support life. About 71% of its surface is covered by water, earning it the nickname 'The Blue Planet'.",
+                "Earth is the third planet from the Sun and the only known planet to support life. Often called the Blue Planet, about 71% of its surface is covered by water. Earth has one natural satellite, the Moon, and completes one orbit around the Sun in approximately 365 days. Its atmosphere, liquid water, and moderate climate make it uniquely suited for sustaining a wide variety of life.",
                 "Terrestrial",
                 "12,742 km",
                 "9.81 m/s²",
